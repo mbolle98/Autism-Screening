@@ -6,4 +6,4 @@ Sin embargo, hemos encontrado el siguiente conjunto de datos sobre cribado de au
 Estes resultados serán útiles para análisis clínicos subsiguientes más detalladas, es decir para identificar a los sospechosos de autismo que deben seguir con el diagnóstico clínico formal.
 
 
-El projecto es parte del 2020-21 curso [Inteligencia Artificial para la Ciencia de los Datos](https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-logica-computacion-e-inteligencia/50950020), by Universidad de Sevilla university. 
+El projecto es parte del curso [Inteligencia Artificial para la Ciencia de los Datos](https://www.us.es/estudiar/que-estudiar/oferta-de-masteres/master-universitario-en-logica-computacion-e-inteligencia/50950020) (a.a. 2020-21), en la Universidad de Sevilla.
